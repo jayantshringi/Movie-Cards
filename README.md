@@ -6,8 +6,9 @@ A modern, visually stunning, and fully responsive Movie Showcase interface built
 
 ## 🚀 Live Preview
 To run this project locally:
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/movie-cards.git`
+1. Clone the repository: `https://github.com/jayantshringi/Movie-Cards.git`
 2. Open `index.html` directly in any web browser.
+3. live Preview Link ``
 
 ---
 
